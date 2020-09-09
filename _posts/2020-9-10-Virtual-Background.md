@@ -19,10 +19,9 @@ Penggantian dan perubahan Virtual Background lebih umum dijumpai oleh pengguna l
 
 1. Klik icon User (foto Anda) di bagian kanan atas, lalu klik menu Settings
 
-![Screenshot (200)](https://user-images.githubusercontent.com/60083946/92637031-83816180-f302-11ea-8b58-7bc67cc6aad7.png)
-
+![Screenshot (200)](https://user-images.githubusercontent.com/60083946/92637031-83816180-f302-11ea-8b58-7bc67cc6aad7.png)<br>
 
 2. Akan muncul jendela baru dengan berbagai menu, salah satunya Virtual Background
 
-![Screenshot (201)](https://user-images.githubusercontent.com/60083946/92637739-7749d400-f303-11ea-92ca-c125b9bf5f11.png)
+![Screenshot (201)](https://user-images.githubusercontent.com/60083946/92637739-7749d400-f303-11ea-92ca-c125b9bf5f11.png)<br>
 
