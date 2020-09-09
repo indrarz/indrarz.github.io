@@ -3,6 +3,8 @@ layout: post
 title: Cara Menggunakan Virtual Background Zoom
 ---
 
+![zoom-logo](https://user-images.githubusercontent.com/60083946/92641803-7ae05980-f309-11ea-911d-1ea2342fab7a.png)
+
 Platform konferensi Zoom merupakan salah satu platform yang populer di masa pandemi ini. Dengan adanya Zoom dan platform sejenisnya, jutaan orang dapat melakukan aktivitas bersama dari berbagai tempat yang berbeda seperti rapat, ngobrol santai, webinar dan lainnya.
 
 Dalam platform Zoom terdapat sebuah fitur yang dapat digunakan untuk mengubah lingkungan privat yang membosankan menjadi lebih menarik. Fitur ini disebut Virtual Background. Fitur ini membuat nuansa video konferensi menjadi lebih menarik dan enak dipandang.
