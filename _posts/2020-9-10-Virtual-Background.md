@@ -43,4 +43,7 @@ Bagi Anda pengguna Zoom dengan smartphone, penggantian Virtual Background hanya 
 ### 3. Pilih gambar yang ingin Anda gunakan seperti cara penggantian di laptop/PC
 ### 4. Anda juga dapat memilih gambar dari perangkat yang Anda miliki
 
+Sumber :
+1. [Cara menggunakan background virtual Zoom | Canva – Belajar](https://www.canva.com/id_id/belajar/background-virtual-zoom/)
+2. 
 
