@@ -44,6 +44,6 @@ Bagi Anda pengguna Zoom dengan smartphone, penggantian Virtual Background hanya 
 ### 4. Anda juga dapat memilih gambar dari perangkat yang Anda miliki
 
 Sumber :
-1. [Cara menggunakan background virtual Zoom | Canva – Belajar](https://www.canva.com/id_id/belajar/background-virtual-zoom/)
-2. [Cara Mengubah Background Di Aplikasi Zoom Via Smartphone (HP) dan Laptop | IDCloudHost](https://idcloudhost.com/cara-mengubah-background-di-aplikasi-zoom-via-smartphone-hp-dan-laptop/)
+1. https://www.canva.com/id_id/belajar/background-virtual-zoom/
+2. https://idcloudhost.com/cara-mengubah-background-di-aplikasi-zoom-via-smartphone-hp-dan-laptop/
 
