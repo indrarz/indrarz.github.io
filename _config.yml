@@ -19,16 +19,16 @@ avatar: https://github.com/indrarz/indrarz.github.io/blob/master/images/Profil-0
 footer-links:
   dribbble:
   email: indra_rz@apps.ipb.ac.id
-  facebook: facebook.com/eki1999
+  facebook: eki1999
   flickr:
-  github: github.com/indrarz
-  instagram: instagram.com/indrarz_
-  linkedin:
-  pinterest:
+  github: indrarz
+  instagram: indrarz_
+  linkedin: indrarz
+  pinterest: indrarz_
   rss: # just type anything here for a working RSS icon
-  twitter: twitter.com/IndraRz_
+  twitter: IndraRz_
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: UC__H6zdE_7CdCfTW-l4TWBQ
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: indrarz.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
