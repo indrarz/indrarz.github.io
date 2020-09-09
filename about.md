@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Assalamu'alaikum, Selamat Datang! Salam kenal!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Halo semua, nama saya Indra Rizky Gunawan, orang-orang biasa memanggil saya Eki. Lahir di Jakarta, 29 April 1999. Ingin tahu lebih lanjut tentang saya? Kunjungi saja sosial media yang tertera. Terima kasih.
