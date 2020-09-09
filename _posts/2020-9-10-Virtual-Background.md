@@ -26,7 +26,7 @@ Penggantian dan perubahan Virtual Background lebih umum dijumpai oleh pengguna l
 
 ![Screenshot (201)](https://user-images.githubusercontent.com/60083946/92637739-7749d400-f303-11ea-92ca-c125b9bf5f11.png)
 
-### 3. Pada Virtual Background, pilih Background yang ingin digunakan. Kalian dapat menggunakan background yang telah disediakan atau dapat menggunakan background yang kalian punya
+### 3. Pada Virtual Background, pilih Background yang ingin digunakan. Kalian dapat menggunakan background yang telah disediakan atau dapat menggunakan background yang kalian punya dengan mengklik tombol (+)
 
 ![Screenshot (202)](https://user-images.githubusercontent.com/60083946/92638354-57ff7680-f304-11ea-8935-626a63c597a3.png)
 
