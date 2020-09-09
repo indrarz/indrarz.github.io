@@ -26,9 +26,21 @@ Penggantian dan perubahan Virtual Background lebih umum dijumpai oleh pengguna l
 
 ![Screenshot (201)](https://user-images.githubusercontent.com/60083946/92637739-7749d400-f303-11ea-92ca-c125b9bf5f11.png)
 
-### 3. Pada Virtual Background, pilih Background yang ingin digunakan. Kalian dapat menggunakan background yang telah disediakan atau dapat menggunakan background yang kalian punya dengan mengklik tombol (+)
+### 3. Pada Virtual Background, pilih Background yang ingin digunakan. Anda dapat menggunakan background yang telah disediakan atau dapat menggunakan background yang Anda punya dengan mengklik tombol (+)
 
 ![Screenshot (202)](https://user-images.githubusercontent.com/60083946/92638354-57ff7680-f304-11ea-8935-626a63c597a3.png)
 
+### 4. Jika Anda sudah berada di dalam ruangan Zoom dan ingin mengganti Virtual Background, pilih Start Video yang ada di bagian bawah dan klik (^) lalu pilih Choose Virtual Background. Setelah itu lakukan langkah kedua dan ketiga untuk mengatur Virtual Background
+
+![Screenshot (203)](https://user-images.githubusercontent.com/60083946/92638901-3eaafa00-f305-11ea-9513-04b79ad55c7e.png)
+
+## Cara Mengubah Virtual Background Zoom via Smartphone
+
+Bagi Anda pengguna Zoom dengan smartphone, penggantian Virtual Background hanya dapat dilakukan pada saat meeting berlangsung. Tidak semua smartphone dapat mendukung perubahan background ini, jadi pastikan smartphone Anda mendukung hal ini. Jika smartphone Anda mendukung pergantian latar belakang, berikut cara menggantinya.
+
+### 1. Ketika Anda berada dalam meeting, cari dan temukan menu dengan ikon tiga titik pada bagian bawah kanan
+### 2. Klik pada Virtual Background
+### 3. Pilih gambar yang ingin Anda gunakan seperti cara penggantian di laptop/PC
+### 4. Anda juga dapat memilih gambar dari perangkat yang Anda miliki
 
 
